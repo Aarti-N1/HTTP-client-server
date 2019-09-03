@@ -1,6 +1,5 @@
 package server;
 /* Aarti Nimhan (801098198)
- * Deekansha Tandon (801074066)
  * 
  *  This class contains methods to handle request from single client. An instance of this class is created by the Server for each client.
  *  That is new thread is created for a new client.
